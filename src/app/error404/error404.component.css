@@ -1,0 +1,16 @@
+
+.container {
+    max-width: 950px;
+    line-height: 90px;
+    height: 100px;
+    margin: 10px;
+    background-color: lightgray;
+    text-align: center;
+    overflow: none;
+}
+
+.error {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+}

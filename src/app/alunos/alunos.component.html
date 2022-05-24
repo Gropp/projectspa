@@ -1,0 +1,16 @@
+<h2>Alunos</h2>
+
+<table>
+    <tr>
+        <th>Nome</th>
+        <th>Idade</th>
+        <th>Email</th>
+        <th>Curso</th>
+    </tr>
+    <tr *ngFor="let aluno of listaAlunos">
+        <td>{{aluno.nome}}</td>
+        <td>{{aluno.idade}}</td>
+        <td>{{aluno.email}}</td>
+        <td>{{aluno.curso}}</td>
+    </tr>
+</table>

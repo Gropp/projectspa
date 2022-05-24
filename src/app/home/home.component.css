@@ -1,0 +1,11 @@
+@import '@angular/material/prebuilt-themes/deeppurple-amber.css';
+
+footer {
+    font-family: 'Courier New', Courier, monospace;
+    color: darkred;
+    width: auto;
+    height: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
